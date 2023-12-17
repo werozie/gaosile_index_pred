@@ -36,3 +36,26 @@ Pogrupowana lista składająca się z następujących kolumn:
 | NWF1          | Dokumentacja użytkownika     | Opracować pełną dokumentację użytkownika, zawierającą instrukcje obsługi, opis algorytmów prognozowania oraz dane wejściowe/wyjściowe. | 2         | Niefunkcjonalne    |
 | NWF2          | Skalowalność systemu         | System powinien być skalowalny, dostosowuje się do zmieniającej się ilości danych historycznych. | 2         | Niefunkcjonalne |
 | NWF3          | Rozszerzalność               | Program powinien być elastyczny ze względu na wprowadzanie nowych wariantów prognozowania (np. rozszerzenie o prognozowanie cen benzyny 98)| 2         | Niefunkcjonalne             |
+
+### 4.Architektura systemu/oprogramowania
+- **Architektura rozwoju – stos technologiczny**
+- **Język programowania:** Python 
+- **Pakiety:** Pandas, Keras 3.0, scikit-learn,  statsmodels, pyramid-arima
+- **Baza danych:** System zarządzania bazą danych, MS SQL. 
+
+
+**Zarządzanie zależnościami i wersjami:**
+- **System kontroli wersji** - Github.
+
+**Architektura uruchomieniowa** – stos technologiczny
+
+**Hosting:**
+- Chmura obliczeniowa, np. AWS, Azure lub Google Cloud dla skalowalności.
+
+
+### 5.Testy
+- **Scenariusz testów**
+Wykonanie testów na wszystkich modelach -  walidacja krzyżowa, wyliczenie statystyk w celu zbadania dobroci modeli, uwzględnienie różnicy w działaniu obu modeli w zależności od horyzontu czasowego, w którym prognozujemy dane.
+- **Sprawozdanie z wykonania scenariuszy testów** - 
+Porównanie właściwości obu modeli, zestawienie statystyk, dla kolejnych prób w walidacji krzyżowej z uwzględnieniem horyzontu czasowego, w którym prognozujemy dane.
+Sprawozdanie zostanie przygotowane w formie raportu w programie Excel. 
