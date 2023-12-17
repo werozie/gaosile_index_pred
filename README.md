@@ -39,9 +39,9 @@ Pogrupowana lista składająca się z następujących kolumn:
 
 ### 4.Architektura systemu/oprogramowania
 - **Architektura rozwoju – stos technologiczny**
-- **Język programowania:** Python 
-- **Pakiety:** Pandas, Keras 3.0, scikit-learn,  statsmodels, pyramid-arima
-- **Baza danych:** System zarządzania bazą danych, MS SQL. 
+  - **Język programowania:** Python 
+  - **Pakiety:** Pandas, Keras 3.0, scikit-learn,  statsmodels, pyramid-arima
+  - **Baza danych:** System zarządzania bazą danych, MS SQL. 
 
 
 **Zarządzanie zależnościami i wersjami:**
