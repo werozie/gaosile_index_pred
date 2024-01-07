@@ -33,15 +33,15 @@ Pogrupowana lista składająca się z następujących kolumn:
 | WF1.1           | Biblioteki | System powinien załadować biblioteki używane w projekcie | 1         | Funkcjonalne             |
 | WF1.2           | Dane | System powinien załadować dane potrzebne do utworzenia modeli dla prognozy  | 1         | Funkcjonalne             |
 | WF1.3           | Przygotowanie danych | System powinien odpowiednio przygotować dane do dalszej analizy | 1         | Funkcjonalne             |
-| WF1.3.1           | Przygotowanie danych do modelu LSTM | System powinien odpowiednio przygotować dane w celu umożliwienia utworzenia modelu LSTM         | Funkcjonalne             |
+| WF1.3.1           | Przygotowanie danych do modelu LSTM | System powinien odpowiednio przygotować dane w celu umożliwienia utworzenia modelu LSTM| 1        | Funkcjonalne             |
 | WF1.3.2           | Przygotowanie danych do modelu SARIMA | System powinien odpowiednio przygotować dane w celu umożliwienia utworzenia modelu SARIMA| 1         | Funkcjonalne             |
 | WF1.4           | Wizualizacja danych | System powinien zwiauzalizowac dane w celu lepszego ich zrozumienia | 1         | Funkcjonalne             |
 | WF1.5           | Modele | System powinien utworzyć dwa modele do prognozowania cen benzyny PB95 | 1         | Funkcjonalne             |
 | WF1.5.1           | Model 1 | System powinien utworzyć optymalny model LSTM do prognozowania cen benzyny PB95 | 1         | Funkcjonalne             |
 | WF1.5.2           | Model 2 | System powinien utworzyć optymalny model SARIMA do prognozowania cen benzyny PB95 | 1         | Funkcjonalne             |
 | WF1.6          | Wizualizacja wyników | System powinien zwizualizować prognozę cen benzyny PB95 | 1         | Funkcjonalne             |
-| WF1.6.1          | Wizualizacja wyników | System powinien zwizualizować prognozę cen benzyny PB95 przy użyciu modelu LSTM| 1         | Funkcjonalne             |
-| WF1.6.2         | Wizualizacja wyników | System powinien zwizualizować prognozę cen benzyny PB95 przy użyciu modelu SARIMA | 1         | Funkcjonalne             |
+| WF1.6.1          | Wizualizacja wyników 1 | System powinien zwizualizować prognozę cen benzyny PB95 przy użyciu modelu LSTM| 1         | Funkcjonalne             |
+| WF1.6.2         | Wizualizacja wyników 2 | System powinien zwizualizować prognozę cen benzyny PB95 przy użyciu modelu SARIMA | 1         | Funkcjonalne             |
 | WF2           | Interfejs użytkownika        | System powinien dostarczać intuicyjny interfejs użytkownika umożliwiający łatwe korzystanie z funkcji prognozowania cen. | 1         | Funkcjonalne    |
 | WF3           | Baza danych cen paliw        | System powinien zarządzać bazą danych zawierającą historyczne ceny benzyny PB95 do celów trenowania modeli prognozowania. | 1         | Funkcjonalne    |
 | NWF1          | Dokumentacja użytkownika     | Opracować pełną dokumentację użytkownika, zawierającą instrukcje obsługi, opis algorytmów prognozowania oraz dane wejściowe/wyjściowe. | 2         | Niefunkcjonalne    |
