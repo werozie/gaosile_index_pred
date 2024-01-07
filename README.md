@@ -55,13 +55,13 @@ Pogrupowana lista składająca się z następujących kolumn:
   - **Baza danych:** Baza danych zostanie poddana przekształceniom w programie Power Query, aby ujednolicić poziomy agregacji dla wszystkich zmiennych
 
 
-**Zarządzanie zależnościami i wersjami:**
-- **System kontroli wersji** - Github
+- **Zarządzanie zależnościami i wersjami:**
+  - **System kontroli wersji** - Github
 
-**Architektura uruchomieniowa** – stos technologiczny
+- **Architektura uruchomieniowa** – stos technologiczny
 
-**Hosting:**
-- Git Hub, Google Collab,
+- **Hosting:**
+  - Git Hub, Google Collab,
 
 
 ### 5.Testy
