@@ -58,7 +58,8 @@ Pogrupowana lista składająca się z następujących kolumn:
 - **Zarządzanie zależnościami i wersjami:**
   - **System kontroli wersji** - Github
 
-- **Architektura uruchomieniowa** – stos technologiczny
+- **Architektura uruchomieniowa**
+    – stos technologiczny
 
 - **Hosting:**
   - Git Hub, Google Collab,
