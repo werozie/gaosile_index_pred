@@ -65,8 +65,18 @@ Pogrupowana lista składająca się z następujących kolumn:
 
 ### 5.Testy
 - **Scenariusz testów**
-Wykonanie testów na wszystkich modelach - wyliczenie statystyk w celu zbadania dobroci modeli (MSE), uwzględnienie różnicy w działaniu obu modeli w zależności od horyzontu czasowego, w którym prognozujemy dane
+1. Uruchomienie modelu LTSM
+2. Uruchomienie modelu SARIMA
+3. PRzetestowanie działania narzedzia dla użytkownika do progznozowania ceny za pomocą modelu LSTM
+  a) wprowadzenie pareamtetrów 
+  b) otrzymanie wyniku
+  c) powrót do strony głównej
+  D) ponowna predykcja 
 
 - **Sprawozdanie z wykonania scenariuszy testów** - 
-Porównanie właściwości obu modeli, zestawienie statystyk, interpretacja wyników.
-  Po przeprowadzeniu testów zamieścimy raport z ich przebiegu w tym miejscu.  
+1. Powodzenie
+2. Powodzenie
+3a) Powodzenie
+3b) Powodzenie
+3c) Powodzenie
+3d) Powodzenie 
