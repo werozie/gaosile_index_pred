@@ -42,14 +42,14 @@ Pogrupowana lista składająca się z następujących kolumn:
 | WF1.6          | Wizualizacja wyników | System powinien zwizualizować prognozę cen benzyny PB95 | 1         | Funkcjonalne             |
 | WF1.6.1          | Wizualizacja wyników 1 | System powinien zwizualizować prognozę cen benzyny PB95 przy użyciu modelu LSTM| 1         | Funkcjonalne             |
 | WF1.6.2         | Wizualizacja wyników 2 | System powinien zwizualizować prognozę cen benzyny PB95 przy użyciu modelu SARIMA | 1         | Funkcjonalne             |
-| WF2           | Interfejs użytkownika        | System powinien dostarczać intuicyjny interfejs użytkownika umożliwiający łatwe korzystanie z funkcji prognozowania ceny | 1         | Funkcjonalne    |
+| WF2           | Interfejs użytkownika        | System powinien dostarczać intuicyjny interfejs użytkownika umożliwiający łatwe korzystanie z funkcji prognozowania ceny (Flask) | 1         | Funkcjonalne    |
 | NWF1          | Skalowalność systemu         | System powinien być skalowalny, dostosowuje się do zmieniającej się ilości danych historycznych. | 2         | Niefunkcjonalne |
 | NWF2          | Rozszerzalność               | Program powinien być elastyczny ze względu na wprowadzanie nowych wariantów prognozowania (np. rozszerzenie o prognozowanie cen benzyny 98)| 2         | Niefunkcjonalne             |
 
 ### 4.Architektura systemu/oprogramowania
 - **Architektura rozwoju – stos technologiczny**
   - **Język programowania:** Python 
-  - **Pakiety:** Pandas, Keras 3.0, scikit-learn,  statsmodels, pyramid-arima
+  - **Pakiety:** Pandas, Keras 3.0, scikit-learn,  statsmodels, pyramid-arima, flask, flask_wtf
   - **Baza danych:** Baza danych zostanie poddana przekształceniom w programie Power Query, aby ujednolicić poziomy agregacji dla wszystkich zmiennych
 
 
