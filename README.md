@@ -78,8 +78,9 @@ Pogrupowana lista składająca się z następujących kolumn:
 - **Sprawozdanie z wykonania scenariuszy testów** - 
 1. Powodzenie
 2. Powodzenie
-3.
-  3a) Powodzenie
-  3b) Powodzenie
-  3c) Powodzenie
-  3d) Powodzenie 
+3. .
+    - Powodzenie
+    - Powodzenie
+    - Powodzenie
+    - Powodzenie
+
