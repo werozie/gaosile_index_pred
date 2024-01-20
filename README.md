@@ -68,10 +68,11 @@ Pogrupowana lista składająca się z następujących kolumn:
 1. Uruchomienie modelu LTSM
 2. Uruchomienie modelu SARIMA
 3. Przetestowanie działania narzędzia dla użytkownika do prognozowania ceny za pomocą modelu LSTM
-    a. Wprowadzenie parametrów
-    b. Otrzymanie wyniku
-    c. Powrót do strony głównej
-    d. Ponowna predykcja
+    - Wprowadzenie parametrów
+    - Otrzymanie wyniku
+    - Powrót do strony głównej
+    - Ponowna predykcja
+
 
 
 - **Sprawozdanie z wykonania scenariuszy testów** - 
