@@ -67,11 +67,12 @@ Pogrupowana lista składająca się z następujących kolumn:
 - **Scenariusz testów**
 1. Uruchomienie modelu LTSM
 2. Uruchomienie modelu SARIMA
-3. Przetestowanie działania narzedzia dla użytkownika do progznozowania ceny za pomocą modelu LSTM
-    4. wprowadzenie pareamtetrów
-   b) otrzymanie wyniku
-   c) powrót do strony głównej
-   d) ponowna predykcja 
+3. Przetestowanie działania narzędzia dla użytkownika do prognozowania ceny za pomocą modelu LSTM
+    a. Wprowadzenie parametrów
+    b. Otrzymanie wyniku
+    c. Powrót do strony głównej
+    d. Ponowna predykcja
+
 
 - **Sprawozdanie z wykonania scenariuszy testów** - 
 1. Powodzenie
