@@ -46,4 +46,5 @@ form p {
 
 .result-item:last-child {
     font-weight: bold; /* Zastosowanie wytłuszczenia do prognozowanej wartości */
+    color: #ff0000; /* Dodanie koloru (możesz dostosować według własnych preferencji) */
 }
