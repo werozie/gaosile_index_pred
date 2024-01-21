@@ -8,7 +8,7 @@ from flask import Flask, render_template
 from flask_wtf import FlaskForm
 from wtforms import FloatField, SubmitField
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'sekretny_klucz'  # Klucz używany do obsługi sesji
@@ -24,7 +24,7 @@ def index():
     form = MyForm()
     if form.validate_on_submit():
         return wyniki(form.cena_barylki.data, form.kurs_dolara.data)
-    return render_template('index.html', form=form)
+    return render_template('index.html', form=form, title="Prognoza ceny benzyny 95 przy użyciu modelu LSTM")
 
 
 
