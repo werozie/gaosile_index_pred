@@ -14,7 +14,7 @@ Jolanta Mieczyńska,
 Weronika Zielińska,
 Dominik Zakrzewski 
 - **Warunki licencyjne do oprogramowania wytworzonego przez grupę**
-  - CC BY-NC 4.0 DEED (Uznanie autorstwa-Użycie niekomercyjne-Na tych samych warunkach 4.0 Międzynarodowe)
+  - CC BY-NC 4.0 DEED (Uznanie autorstwa-Użycie niekomercyjne 4.0 Międzynarodowe)
   - BY - Uznanie autorstwa: Wolno kopiować, rozprowadzać, przedstawiać i wykonywać objęty prawem autorskim utwór oraz opracowane na jego podstawie utwory zależne pod warunkiem, że zostanie przywołane nazwisko autora pierwowzoru.
   - NC - Użycie niekomercyjne: Wolno kopiować, rozprowadzać, przedstawiać i wykonywać objęty prawem autorskim utwór oraz opracowane na jego podstawie utwory zależne jedynie do celów niekomercyjnych.
   - Brak dodatkowych ograniczeń
